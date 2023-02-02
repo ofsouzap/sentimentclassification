@@ -1,0 +1,2 @@
+# Ignore example data in repo language statistics
+example_data/imdb_data/reviews/* liguist-vendored
